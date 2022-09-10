@@ -14,11 +14,11 @@ https://github.com/Eric20Junior/codestack
 - cd codestack
 - install all the requirements
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 - To run app
 
-python manage.py runserver
+`python manage.py runserver`
 
 ### Author
 
