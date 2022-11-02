@@ -1,3 +1,5 @@
+![screenshot](./static/codestack.png)
+
 ### Codestack
 
 - Codestack is a clone of stackoverflow built using Python(Django)
