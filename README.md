@@ -1,7 +1,7 @@
 ![screenshot](./static/codestack.png)
+[Live link - click here](https://eric21junior.pythonanywhere.com)
 
-
-### StackOverflow Clone Documentation
+# StackOverflow Clone Documentation
 # Introduction
 - Welcome to our StackOverflow Clone, a platform designed to facilitate knowledge sharing and collaboration among developers. This documentation will guide you through the various functionalities of the system, helping you understand how to authenticate users, manage profiles, and interact with questions and answers.
 
