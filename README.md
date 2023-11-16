@@ -2,7 +2,8 @@
 
 
 # StackOverflow Clone Documentation
-
+- [Live link - click here](https://eric21junior.pythonanywhere.com)
+  
 # Introduction
 - Welcome to our StackOverflow Clone, a platform designed to facilitate knowledge sharing and collaboration among developers. This documentation will guide you through the various functionalities of the system, helping you understand how to authenticate users, manage profiles, and interact with questions and answers.
 
@@ -10,7 +11,7 @@
 - Authentication
 - Profile Management
 - Question and Answer Interaction
-  [Live link - click here](https://eric21junior.pythonanywhere.com)
+  
 # Authentication
 - Our StackOverflow Clone provides a robust authentication system to ensure secure access to the platform. Users can register, log in, and log out using their credentials.
 
